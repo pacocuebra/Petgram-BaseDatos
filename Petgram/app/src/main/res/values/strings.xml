@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Petgram</string>
+    <string name="nombreperro">Perro</string>
+    <string name="mcontacto">Contacto</string>
+    <string name="macerca">Acerca de</string>
+
+
+</resources>
